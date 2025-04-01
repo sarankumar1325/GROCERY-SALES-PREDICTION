@@ -1,6 +1,6 @@
 # Grocery Sales Prediction
 
-A machine learning project to predict grocery sales using historical data from BlinkIT.
+A machine learning project to predict grocery sales using historical data from BlinkIT - a quickcommerce  platform.
 
 ## Project Structure
 
